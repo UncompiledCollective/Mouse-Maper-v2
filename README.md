@@ -9,6 +9,7 @@ A simple fork of a tool to remap side buttons to any alphanumeric key or a speci
 
 ## About
    I'm not a professional so don't expect an S tier code. 
+   Special thanks to the original developer Pranjol-Dev, he did most of the work anyway. 
 ## Installation
 
 1. **Clone the repository:**
