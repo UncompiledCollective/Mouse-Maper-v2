@@ -1,13 +1,14 @@
-# Mouse Button Remapper
-
-A simple Windows application to remap side mouse buttons to keyboard keys using the Windows API. The GUI features a modern, pastel-themed aesthetic for a more pleasant user experience.
+# Mouse Button Remapper v2
+A simple tool to remap side buttons to any alphanumeric key or a special key like control/alt/shift. Now also allows for mapping both keys at the same time and allows for a reset of mapping.
 
 ## Features
+   as listed above. This is a fork of another project. 
+   You can also add new remappings for more special keys, although I think I've included all the most important ones. 
+   See specials to see what input corresponds to a specific special key - for the control key it's either ctrl or control you have to type into the input field. 
+   The rest of the description is pretty much just copied from the original. Installation works the same. 
 
-- Remap side mouse buttons (XBUTTON1 and XBUTTON2) to any alphabet key.
-- Modern and pastel-themed GUI.
-- Easy-to-use interface for setting mappings.
-
+## About
+   I'm not a professional so don't expect an S tier code. 
 ## Installation
 
 1. **Clone the repository:**
@@ -34,10 +35,13 @@ A simple Windows application to remap side mouse buttons to keyboard keys using 
     - Click on "Side Button 1" or "Side Button 2" to select which mouse button you want to remap.
 
 2. **Enter Key to Map:**
-    - Enter the key you want to map the selected mouse button to in the text box.
+    - Enter the key you want to map the selected mouse button to in the text box. Either a single letter, for example a or A for the A key
+    - For special keys see specials.txt. Input word on the left to the text field to get the specified button on the right to be mapped. 
 
 3. **Set Mapping:**
     - Click "Set Mapping" to apply the remapping.
+4. **Reset Mapping:**
+    - Click "Reset" to reset mapping of the extra buttons. Resets both of them. 
 
 ## Customization
 
