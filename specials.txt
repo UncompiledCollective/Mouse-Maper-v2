@@ -1,0 +1,29 @@
+Here is the list of special words allowed and its corresponding remap. 
+Adding your own as of now requires a recompilation. Follow readme for directions if you want to add a key that's not included. 
+
+mouseLeft 		left mouse button
+mouseRight		right mouse button
+shift			shift
+control			control key
+ctrl			control key (alternate)
+lcontrol		left kontrol key
+lctrl			left control key (alternate_
+rcontrol		right control key
+rctrl			right control key
+alt				alt key
+leftAlt			left alt key
+rightAlt		right alt key
+escape			escape key
+esc				escape key (alternate)
+numpadZero		Zero on the numpad
+F1Key			F1 key
+tab				Tab key
+spacebar		spacebar
+space			spacebar (alternate)
+caps			Caps Lock key
+arrowLeft		Left arrow
+arrowRight		Right arrow
+arrowUp			Up arrow
+arrowDown		Down arrow
+semicolon		semicolon
+plus			plus key
