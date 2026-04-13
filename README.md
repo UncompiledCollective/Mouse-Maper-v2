@@ -1,10 +1,10 @@
 # Mouse Button Remapper v2
-A simple tool to remap side buttons to any alphanumeric key or a special key like control/alt/shift. Now also allows for mapping both keys at the same time and allows for a reset of mapping.
+A simple fork of a tool to remap side buttons to any alphanumeric key or a special key like control/alt/shift. Now also allows for mapping both keys at the same time and allows for a reset of mapping.
 
 ## Features
    as listed above. This is a fork of another project. 
    You can also add new remappings for more special keys, although I think I've included all the most important ones. 
-   See specials to see what input corresponds to a specific special key - for the control key it's either ctrl or control you have to type into the input field. 
+   See specials.txt to see what input corresponds to a specific special key - for the control key it's either ctrl or control you have to type into the input field to map your mouse button to it. 
    The rest of the description is pretty much just copied from the original. Installation works the same. 
 
 ## About
